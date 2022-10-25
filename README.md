@@ -20,8 +20,6 @@ Examples:
 - `/emotes daily`
 - `/pickaxes featured`
 
-https://raw.githubusercontent.com/reitmas32/Moon/master/assets/ComponentBase_t.png
-
 
 <center><img src="https://raw.githubusercontent.com/reitmas32/Tele_Bot_Fortnite/master/public/help.png"></center>
 
